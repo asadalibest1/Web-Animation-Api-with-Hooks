@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Web-Animation-Api-with-Hooks/static/css/main.0c79e7a2.chunk.css",
+    "main.js": "/Web-Animation-Api-with-Hooks/static/js/main.2c1caa86.chunk.js",
+    "main.js.map": "/Web-Animation-Api-with-Hooks/static/js/main.2c1caa86.chunk.js.map",
+    "runtime-main.js": "/Web-Animation-Api-with-Hooks/static/js/runtime-main.1c2b0769.js",
+    "runtime-main.js.map": "/Web-Animation-Api-with-Hooks/static/js/runtime-main.1c2b0769.js.map",
+    "static/js/2.1dd4a992.chunk.js": "/Web-Animation-Api-with-Hooks/static/js/2.1dd4a992.chunk.js",
+    "static/js/2.1dd4a992.chunk.js.map": "/Web-Animation-Api-with-Hooks/static/js/2.1dd4a992.chunk.js.map",
+    "index.html": "/Web-Animation-Api-with-Hooks/index.html",
+    "precache-manifest.988bf98e7de793a72f6839a723811d7b.js": "/Web-Animation-Api-with-Hooks/precache-manifest.988bf98e7de793a72f6839a723811d7b.js",
+    "service-worker.js": "/Web-Animation-Api-with-Hooks/service-worker.js",
+    "static/css/main.0c79e7a2.chunk.css.map": "/Web-Animation-Api-with-Hooks/static/css/main.0c79e7a2.chunk.css.map",
+    "static/js/2.1dd4a992.chunk.js.LICENSE.txt": "/Web-Animation-Api-with-Hooks/static/js/2.1dd4a992.chunk.js.LICENSE.txt",
+    "static/media/github.png": "/Web-Animation-Api-with-Hooks/static/media/github.428b9f86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2b0769.js",
+    "static/js/2.1dd4a992.chunk.js",
+    "static/css/main.0c79e7a2.chunk.css",
+    "static/js/main.2c1caa86.chunk.js"
+  ]
+}
