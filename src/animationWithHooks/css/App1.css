@@ -1,0 +1,109 @@
+body{
+    background: pink;
+}
+.main-div{
+    width: 100%;
+    height: 100vh;
+    /* background: pink; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.main-div h1{
+    color: #6c757d;
+    margin-top: 46px;
+    text-align: center;
+    /* background: yellow; */
+    width: 100%;
+}
+.main-div .paper{
+    padding: 38px;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 70%;
+    border-radius: 5px;
+    height: fit-content;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.2);
+    }
+.main-div .square{
+    height: 200px;
+    width: 200px;
+    background: skyblue;
+    margin: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-div .square span{
+background: transparent;
+padding: 4px 18px;
+color: wheat;
+border: 1.5px solid white;
+border-image: initial;
+padding-bottom: 6px;
+border-radius: 50px;
+}
+.main-div .square .Click{
+    display: none;
+}
+
+.main-div .contacts{
+    text-align: center;
+}
+.main-div .contacts img{
+    margin: 30px 15px;
+    width: 50px;
+    height: 45px;
+}
+.main-div .contacts img:nth-child(2){
+    /* border: 1px solid black; */
+    border-radius: 51%;
+}
+.main-div .contacts img:hover{
+    background: white;
+    box-shadow: 0 0 10px 0 #00d7c3 inset, 0 0 7px 10px #ffffff;
+    cursor: pointer;
+}
+.main-div .square1{background: #fca311;}
+.main-div .square2{background: #e85d04;}
+.main-div .square3{background: #d00000;}
+.main-div .square4{background: #5e60ce;}
+.main-div .square5{background: #5390d9;}
+.main-div .square6{background: #52b788;}
+.main-div .square8{background: #370617;}
+.main-div .square7{background: #3d405b;}
+.main-div .square9{background: #4f5f21;}
+
+@media only screen and (max-width: 768px) {
+    .main-div .square .Click{
+        display: inline;
+    }
+    .main-div .square .hover{
+        display: none;
+    }
+    .main-div .square{
+        height: 200px;
+        width: 80%;
+        /* background: skyblue; */
+        margin: 7px 3px;
+        /* display: flex;
+        align-items: center;
+        justify-content: center; */
+    }
+    .main-div .paper{
+        padding: 12px 3px;
+        margin: 0 auto;
+        margin-top: 30px;
+        width: 93%;
+    }    
+    .main-div h1{
+        margin: 20px auto;
+        margin-top: 38px;
+        width: 80%;
+        font-size: 28px;
+    }
+}
